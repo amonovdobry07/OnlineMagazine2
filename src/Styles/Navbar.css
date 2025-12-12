@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+.Logo h1 {
+  font-size: 24px;
+}
+
+.nav-button {
+  @apply border px-5 py-2.5 rounded font-semibold transition duration-200 ease-in-out;
+}
+
+
+

@@ -1,0 +1,8 @@
+.ProductsApi-img {
+  object-fit: contain;
+}
+
+.image-filter {
+  transition: all 0.7s ease; /* yumshoq o‘tish uchun */
+  filter: blur(20px) grayscale(100%) scale(1.05);
+}
